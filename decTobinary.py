@@ -1,4 +1,4 @@
-decimal_str = input("Please Enter A Number In Binary Form: ")
+decimal_str = input("Please Enter A Number In Bin Form: ")
 
 decimal_str = decimal_str[::-1]
 
